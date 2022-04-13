@@ -1,6 +1,6 @@
 # Second challenge at AMDOCS Bootcamp!
 
-+ In this challenge we developed a small API to manage people. +
+In this challenge we developed a small API to manage people.
 
 Important things that I've learned:
 
